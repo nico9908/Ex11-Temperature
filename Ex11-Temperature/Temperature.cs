@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ex11_Temperature
 {
-    class Temperature
+    public class Temperature
     {
+        double convert = C * 1.8000 + 32.00;
+
+        public double Celsius { get; set; }
+        public object Fahrenheit { get; set; }
     }
 }

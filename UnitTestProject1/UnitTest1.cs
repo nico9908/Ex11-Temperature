@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Ex11_Temperature;
 
 namespace UnitTestProject1
 {
